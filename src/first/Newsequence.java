@@ -26,6 +26,7 @@ public class Newsequence {
 			System.out.println(key + " repeats " + map.get(key) + " times ");
 		}
 		}
+		//just for testing
 		
 	}
 
